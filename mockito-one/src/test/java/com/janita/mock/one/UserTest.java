@@ -1,6 +1,5 @@
 package com.janita.mock.one;
 
-import com.janita.mock.one.bean.Book;
 import com.janita.mock.one.bean.User;
 import com.janita.mock.one.service.UserService;
 import org.junit.BeforeClass;
